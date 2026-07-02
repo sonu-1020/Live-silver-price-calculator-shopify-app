@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shopify App Template for Node
 
 This is a template for building a [Shopify app](https://shopify.dev/docs/apps/getting-started) using Node and React. It contains the basics for building a Shopify app.
@@ -240,3 +241,7 @@ pnpm dev --tunnel-url https://randomly-generated-hostname.trycloudflare.com:3000
     - [`useTranslation` hook](https://react.i18next.com/latest/usetranslation-hook)
     - [`Trans` component usage with components array](https://react.i18next.com/latest/trans-component#alternative-usage-components-array)
   - [i18n-ally VS Code extension](https://marketplace.visualstudio.com/items?itemName=Lokalise.i18n-ally)
+=======
+# Live-silver-price-calculator-shopify-app
+Live silver price calculator shopify app
+>>>>>>> e49b456c673e72e119a22bc80a9f9123d16e849f
